@@ -25,4 +25,4 @@ Las cosas cambian y no nos podemos quedar atras, por ello DarkGuy cambio su form
 
 - [**Discurso y acuerdo de privacidad**](https://darkguybot.github.io/docs/acuerdo-de-privacidad)
 
-- **Discurso y términos de uso**
+- [**Discurso y términos de uso**](https://darkguybot.github.io/docs/acuerdo-de-uso)
