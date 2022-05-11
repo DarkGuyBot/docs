@@ -19,7 +19,7 @@ Las cosas cambian y no nos podemos quedar atras, por ello DarkGuy cambio su form
 - Sistema de logs (Próximamente)
 
 ## Más Información
-- [**Invitación**](https://discord.com/oauth2/authorize?client_id=859137456086712321&scope=bot%20applications.commands&permissions=2685201622)
+- [**Invitación**](https://discord.com/oauth2/authorize?client_id=859137456086712321&scope=bot%20applications.commands&permissions=2684677366)
 
 - [**Servidor de Discord (soporte/comunidad)**](https://discord.gg/PttAwGS4Xs)
 
