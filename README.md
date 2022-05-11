@@ -8,6 +8,21 @@ El propósito de DarkGuy es ofrecerte las mejores características posibles para
 
 Las cosas cambian y no nos podemos quedar atras, por ello DarkGuy cambio su formato de comandos, ahora a los nuevos y mejores **Slash Commands(comandos de tu barra diagonal)**, los cuales te facilitarán aún más el uso de los comandos.
 
+## Características destacables
+- Multilenguaje (Por el momento solo Ingles_US y Español_MX)
+- Economía variada
+- Sistema de perfiles
+- Webhooks
+- Sistema de advertencias avanzado
+- Sistema de bienvenidas (En desarrollo)
+- Sistema de despedidas (Próximamente)
+- Sistema de logs (Próximamente)
+
 ## Más Información
-- [**`Discurso y acuerdo de privacidad`**](https://darkguybot.github.io/docs/acuerdo-de-privacidad)
-- `Discurso y términos de uso`
+- [**Invitación**](https://discord.com/oauth2/authorize?client_id=859137456086712321&scope=bot%20applications.commands&permissions=2685201622)
+
+- [**Servidor de Discord (soporte/comunidad)**](https://discord.gg/PttAwGS4Xs)
+
+- [**Discurso y acuerdo de privacidad**](https://darkguybot.github.io/docs/acuerdo-de-privacidad)
+
+- **Discurso y términos de uso**
