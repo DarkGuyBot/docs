@@ -9,5 +9,5 @@ El propósito de DarkGuy es ofrecerte las mejores características posibles para
 Las cosas cambian y no nos podemos quedar atras, por ello DarkGuy cambio su formato de comandos, ahora a los nuevos y mejores **Slash Commands(comandos de tu barra diagonal)**, los cuales te facilitarán aún más el uso de los comandos.
 
 ## Más Información
-- `Discurso y acuerdo de privacidad`
+- [**`Discurso y acuerdo de privacidad`**](https://darkguybot.github.io/docs/acuerdo-de-privacidad)
 - `Discurso y términos de uso`
