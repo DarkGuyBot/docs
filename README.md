@@ -11,7 +11,6 @@ Las cosas cambian y no nos podemos quedar atras, por ello DarkGuy cambio su form
 ## Características destacables
 - Multilenguaje (Por el momento solo Ingles_US y Español_MX)
 - Economía variada
-- Sistema de perfiles
 - Webhooks
 - Sistema de advertencias avanzado
 - Sistema de bienvenidas (En desarrollo)
